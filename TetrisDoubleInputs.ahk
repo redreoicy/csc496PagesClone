@@ -12,7 +12,7 @@ Send {Left down}
 sleep, 20
 Send {Left up}
 return
-r & Left:: 
+c & Right:: 
 Send {Right down}
 sleep, 20
 Send {Right up}
