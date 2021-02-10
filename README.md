@@ -8,7 +8,8 @@
 8.00GB RAM
 AMD Radeon R7 200 Series GPU
 
-### Game 1 Osu is a rhythm game, with relatively low graphics. However, there are storyboards that can be added to the maps that are played, and skins which include many effects.  Because of the precise timing involved in many maps, even 2ms lag can be a significant portion of the timing window for a perfect hit.  
+### Game 1 Osu 
+Osu is a rhythm game, with relatively low graphics. However, there are storyboards that can be added to the maps that are played, and skins which include many effects.  Because of the precise timing involved in many maps, even 2ms lag can be a significant portion of the timing window for a perfect hit.  
 Including the storyboard at 0% dim did seem to lower the framerate significantly, while other things did not.  For example, just including the storyboard but with 100% dim didn't noticeably effect the framerate. Probably the majority of work done by the computer is drawing the display
 
 ### Game 2 League of Legends
