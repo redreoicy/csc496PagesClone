@@ -1,0 +1,13 @@
+1 game vs bots, updating settings from very low to very high in game.
+All in windowed mode.
+
+
+Several sessions failed to properly start (2-3 seconds long), and should be ignored
+Session 1 14:43:38    Very low
+Session 2 14:55:58    Low
+Session 3 14:46:28    Medium
+Session 4 14:48:19    High
+Session 5 14:50:03    Very High
+Session 6 14:51:00    Very High, with max resolution
+
+Note: despite having uncapped framerate in the settings, some other factor seemed to be limiting the framerate to 60, at least according to the display on LoL
