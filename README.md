@@ -3,7 +3,8 @@
 ##### The more # the smaller, from # to ###### #
 
 
-### My setup: A windows 10 computer, AMD FX(tm)-4300 Quad-Core Processor    3.8GHz
+### My setup: 
+A windows 10 computer, AMD FX(tm)-4300 Quad-Core Processor    3.8GHz
 64bit Operating system, x64 based processor
 8.00GB RAM
 AMD Radeon R7 200 Series GPU
