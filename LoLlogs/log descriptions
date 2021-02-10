@@ -10,4 +10,6 @@ Session 4 14:48:19    High
 Session 5 14:50:03    Very High
 Session 6 14:51:00    Very High, with max resolution
 
-Note: despite having uncapped framerate in the settings, some other factor seemed to be limiting the framerate to 60, at least according to the display on LoL
+Note: despite having uncapped framerate in the settings, some other factor seemed to be limiting the framerate to 60, at least according to the display on LoL.
+Likely related to my monitor, (I use a TV with hdmi cable), or graphics driver
+
