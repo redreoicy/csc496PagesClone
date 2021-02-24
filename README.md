@@ -27,5 +27,6 @@ Otherwise, the temperature stayed fairly steady at 41C, lowering once the GPU be
 
 
 
+##### 2/24/2021 ugh figured out how to convert the hml format to one gnuplot would work with, ended up manually editing the files in notepad. csv's with stripped headers and split by session added, then plots created.
 
 ###### 2/3/2021 Added ahk script for doubling inputs of left and right arrow keys when c is held
