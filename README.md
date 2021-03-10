@@ -2,6 +2,7 @@
 ### This is a README file, meant for you to read.
 ##### The more # the smaller, from # to ###### #
 
+#### 3/10/2021 Fell behind (midterms scary), only got the cinebench to work before class time (my computer slow). Should have time on Friday or Saturday to catch up.
 
 ### My setup: 
 A windows 10 computer, AMD FX(tm)-4300 Quad-Core Processor    3.8GHz
