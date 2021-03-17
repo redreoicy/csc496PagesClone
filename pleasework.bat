@@ -1,0 +1,1 @@
+"C:\Users\Admin\Documents\CinebenchR20\cinebench.exe" -g_CinebenchAllTests=true >>"C:\Users\Admin\Desktop\CB20.txt"
