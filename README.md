@@ -2,6 +2,11 @@
 ### This is a README file, meant for you to read.
 ##### The more # the smaller, from # to ###### #
 
+#### 3/17/2021 Blegh.  automation to screenshot is here, and .bat to run cinebench. File paths not generalized, and ss taker may rely on monitor size. 
+my computer takes an hour to run cinebench, not fun
+
+To do: have automation run the .bat first
+
 #### 3/10/2021 Fell behind (midterms scary), only got the cinebench to work before class time (my computer slow). Should have time on Friday or Saturday to catch up.
 
 ### My setup: 
